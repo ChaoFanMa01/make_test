@@ -9,6 +9,7 @@
 # include <stdio.h>
 # include <stdlib.h>
 # include <errno.h>
+# include <string.h>
 # include <sys/types.h>  /* for ssize_t, size_t */
 
 #define CHAR_TYPE
